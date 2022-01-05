@@ -50,6 +50,6 @@
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myoungji)](https://solved.ac/uo3641493)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uo3641493)](https://solved.ac/uo3641493)
 
 
