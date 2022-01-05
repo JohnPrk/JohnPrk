@@ -17,11 +17,11 @@
 
 <h3 align="left">📚 Certificate 📚</h3>
 
-<p align="left"> ▫️ 정보처리기사[최종합]_2021.11.26 </p>
-<p align="left"> ▫️ 빅데이터분석기사[필기]_2021.10.22 </p>
-<p align="left"> ▫️ ADsP_2021.09.24 </p>
-<p align="left"> ▫️ SQLD_2021.10.01</p>
-<p align="left"> ▫️ 컴활 1급[최종합]_2021.08.06 </p>
+<p align="left"> ▫️ 정보처리기사[최종합] _ <i>2021.11.26.</i> </p>
+<p align="left"> ▫️ 빅데이터분석기사[필기] _ <i>2021.10.22.</i> </p>
+<p align="left"> ▫️ ADsP _ <i>2021.09.24.</i> </p>
+<p align="left"> ▫️ SQLD _  <i>2021.10.01.</i> </p>
+<p align="left"> ▫️ 컴활 1급[최종합] _ <i>2021.08.06.</i> </p>
 
 <br>
 
