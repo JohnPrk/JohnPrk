@@ -1,21 +1,17 @@
-## 안녕하세요! 제 소개를 해드립니다.
+## 안녕하세요!
 
 <br>
 
 ### 늦게나마 백엔드 개발자라는 꿈을 갖게 되어 부지런히 성장 중인 박민욱입니다!
 <br>
 
-#### 우연한 기회로 떡볶이 프랜차이즈 회사에 들어가 2년 5개월동안 실무자 및 관리자로 근무했습니다. 
+#### 떡볶이 알바부터 시작해 떡볶이 프랜차이즈 회사에 입사하여 2년 5개월동안 실무자 및 관리자로 근무했습니다. <i>[2018.12.24. ~ 2021. 05. 31.]</i>
 
 
-#### 전공자의 실력을 갖추고 현업에서도 좋은 모습을 보여주기 위해 자격증 취득부터 시작해
-#### 현재 엔코아 플레이데이터 국비교육과정 진행 중에 있습니다.
+#### 현재 엔코아 플레이데이터 국비교육과정 진행 중에 있습니다. <i>[2021.12.20. ~]</i>
 
 
 <br>
-
-<h4 align="center"> 2021.06.01 ~ </h4>
-
 <br>
 
 
@@ -27,6 +23,7 @@
 <p align="left"> ▫️ SQLD_2021.10.01</p>
 <p align="left"> ▫️ 컴활 1급[최종합]_2021.08.06 </p>
 
+<br>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
@@ -47,6 +44,7 @@
   <a href="https://www.instagram.com/john.prk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:uo3641493@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
+<br>
 <br>
 
 [![Solved.ac
