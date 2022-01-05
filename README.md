@@ -1,3 +1,16 @@
+## 안녕하세요! 제 소개를 해드립니다.
+
+<br>
+
+#### 늦게나마 개발자라는 꿈을 갖게 되어 부지런히 성장 중인 박민욱입니다!
+<br>
+
+##### 우연한 기회로 떡볶이 프랜차이즈 회사에 들어가 많진 않지만 직원 8명의 총 책임자로 물류배송, 가맹점 관리, 온라인 판매 근무 경험을 가지고 있습니다.
+
+##### 전공자의 실력을 갖추고 현업에서도 좋은 모습을 보여주기 위해 자격증 취득부터 시작해 현재 엔코아 플레이데이터 국비교육과정 진행 중에 있습니다.
+
+
+<p align="center"> 2021.06.01 ~ </p>
 
 
 <p align="center">🇰🇷 🇦🇺</p>
@@ -10,7 +23,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 </p>
-s
+
   
 <br>
 
