@@ -33,7 +33,11 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 </p>
+<br>
 
+<h3 align="left">⏰ Monthly_Record ⏰</h3> 
+
+2022년 01월 발자취[노션] => https://bit.ly/3s5Wp6q
 
 <br>
 
