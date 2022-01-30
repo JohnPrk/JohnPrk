@@ -37,7 +37,7 @@
 
 <h3 align="left">⏰ Monthly_Record ⏰</h3> 
 
-2022년 01월 발자취[노션] => https://bit.ly/3s5Wp6q
+* Jan 2022(Notion) => https://bit.ly/3s5Wp6q
 
 <br>
 
