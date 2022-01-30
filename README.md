@@ -41,7 +41,13 @@
 
 <h3 align="left">⏰ Monthly_Record ⏰</h3> 
 
+<details>
+    <summary> 🗃 </summary>
+
 * Jan 2022(Notion) => https://bit.ly/3s5Wp6q
+
+</details>
+
 
 <br>
 
