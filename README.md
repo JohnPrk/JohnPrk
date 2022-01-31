@@ -19,7 +19,8 @@
 
 <details>
     <summary> 자격증 </summary>
-
+<br>
+    
 <p align="left"> ▫️ 정보처리기사[최종합] _ <i>2021.11.26.</i> </p>
 <p align="left"> ▫️ 빅데이터분석기사[필기] _ <i>2021.10.22.</i> </p>
 <p align="left"> ▫️ ADsP _ <i>2021.09.24.</i> </p>
@@ -31,7 +32,8 @@
 
 <details>
     <summary> 수료 </summary>
-
+<br>
+    
 <p align="left"> ▫️ 자바1[생활코딩_부스크코스] _ <i>2022.01.31.</i> </p>
 
 
