@@ -34,7 +34,7 @@
     <summary> 수료 </summary>
 <br>
     
-<p align="left"> ▫️ 자바1[생활코딩_부스크코스] _ <i>2022.01.31.</i> </p>
+<p align="left"> ▫️ 자바1[생활코딩_boostcourse] _ <i>2022.01.31.</i> </p>
 
 
 
