@@ -1,25 +1,24 @@
-## 안녕하세요!
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=John_Park&fontSize=80&animation=twinkling)
+
+
+<br>
+Hi there! <br>
+Let's enjoy this day Together<br>
+<br>
 <br>
 
-### 배움이 즐거운 백엔드 개발자 지망생 박민욱입니다!
-<br>
+협업을 통해 배우고 <br>
+몰입하며 성장하고  <br>
+배운 것을 매일 기록하는 <br>
+백엔드 개발자를 지향합니다.<br>
 
 
-#### 항상 새로운 것을 배우기를 주저하지 않으며
-<br>
-
-#### 꾸준함의 가치를 알고 배운 것을 매일매일 기록하는 
-<br>
-
-#### 코드와 싶어 안달이 개발자를 지향합니다.
-<br>
-
-## <B>1일 1커밋 : 12일차 진행중</B>
 <br>
 
 #### 현재 엔코아 플레이데이터 국비교육과정 진행 중에 있습니다. <i>[2021.12.20. ~]</i>
+<br>
 
-
+#### <U>1일 1커밋 챌린지 : 12일차</U>
 <br>
 <br>
 
