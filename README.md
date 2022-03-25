@@ -2,14 +2,23 @@
 
 <br>
 
-### 백엔드 개발자라는 꿈을 갖게 되어 부지런히 성장 중인 박민욱입니다!
+### 배움이 즐거운 백엔드 개발자 지망생 박민욱입니다!
+<br>
 
+
+#### 항상 새로운 것을 배우기를 주저하지 않으며
+<br>
+
+#### 배운 것을 매일매일 기록하는 
 <br>
 
 #### 
+
+
 <br>
 
-## 1일 1커밋 : 10일차
+## 1일 1커밋 : 12일차
+<br>
 
 #### 현재 엔코아 플레이데이터 국비교육과정 진행 중에 있습니다. <i>[2021.12.20. ~]</i>
 
@@ -24,10 +33,8 @@
 <br>
     
 <p align="left"> • 정보처리기사[최종합] _ <i>2021.11.26.</i> </p>
-<p align="left"> • 빅데이터분석기사[필기] _ <i>2021.10.22.</i> </p>
-<p align="left"> • ADsP _ <i>2021.09.24.</i> </p>
 <p align="left"> • SQLD _  <i>2021.10.01.</i> </p>
-<p align="left"> • 컴활 1급[최종합] _ <i>2021.08.06.</i> </p>
+
 
 
 </details>
@@ -52,11 +59,11 @@
 <p align="left"> Techs that I've used at least once </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-8977ad?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-8977ad?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp
   
 </p>
 <br>
