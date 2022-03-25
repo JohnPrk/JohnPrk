@@ -2,23 +2,23 @@
 
 
 <br>
-Hi there! <br>
+Hi there👋🏻 <br>
 Let's enjoy this day Together<br>
 <br>
 <br>
 
-협업을 통해 배우고 <br>
-몰입하며 성장하고  <br>
-배운 것을 매일 기록하는 <br>
-백엔드 개발자를 지향합니다.<br>
+⁃ 협업을 통해 배우고 <br>
+⁃ 몰입하며 성장하고  <br>
+⁃ 배운 것을 매일 기록하는 <br>
+⁃ 백엔드 개발자를 지향합니다.<br>
 
 
 <br>
 
-#### 현재 엔코아 플레이데이터 국비교육과정 진행 중에 있습니다. <i>[2021.12.20. ~]</i>
+#### 📂 엔코아 플레이데이터 국비교육과정 <i>[2021.12.20. ~]</i>
 <br>
 
-#### <U>1일 1커밋 챌린지 : 12일차</U>
+#### ⚡️1일 1커밋 챌린지 : 12일차⚡️
 <br>
 <br>
 
@@ -55,11 +55,14 @@ Let's enjoy this day Together<br>
 <p align="left"> Techs that I've used at least once </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-8977ad?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-8977ad?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/><br>  
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><br>  
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>  
   
 </p>
 <br>
