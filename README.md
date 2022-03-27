@@ -9,7 +9,7 @@ Let's enjoy this day Together<br>
 
 ⁃ 협업을 통해 배우고 <br>
 ⁃ 몰입하며 성장하고  <br>
-⁃ 배운 것을 매일 기록하는 <br>
+⁃ 배운 것을 기록하는 <br>
 ⁃ 백엔드 개발자를 지향합니다.<br>
 
 
