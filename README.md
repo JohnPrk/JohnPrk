@@ -54,7 +54,7 @@ Let's enjoy this day Together<br>
 
 <p align="left">
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=#B1A4D4"/><br>
   <img src="https://img.shields.io/badge/JavaScript-8977ad?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/><br>  
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><br>  
