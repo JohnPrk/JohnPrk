@@ -14,7 +14,7 @@ Let's enjoy this day Together<br>
 <br>
 
 #### ⚡️1일 1커밋 챌린지_14일차⚡️
-== &nbsp; "꾸준함으로 완벽함으로!"
+== &nbsp; "꾸준함이 완벽함을 만든다!"
 <br>
 <br>
 <h3 align="left">📁 Study 📁</h3>
