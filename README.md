@@ -11,17 +11,27 @@ Let's enjoy this day Together<br>
 ⁃ 몰입하며 성장하고  <br>
 ⁃ 배운 것을 기록하는 <br>
 ⁃ 백엔드 개발자를 지향합니다.<br>
-
-
 <br>
 
-#### 📂 엔코아 플레이데이터 국비교육과정 <i>[2021.12.20. ~]</i>
-<br>
-
-#### ⚡️1일 1커밋 챌린지 : 12일차⚡️
+#### ⚡️1일 1커밋 챌린지_14일차⚡️
+== &nbsp; "꾸준함으로 완벽함으로!"
 <br>
 <br>
-
+<h3 align="left">📁 Study 📁</h3>
+<details>
+    <summary> 교육 </summary>
+<br>
+    <p align="left"> • 엔코아 플레이데이터 국비교육과정 <i>[2021.12.20. ~]</i> </p>
+</details>
+<details>
+    <summary> 강의(수료) </summary>
+<br>
+    
+<p align="left"> • 자바1[생활코딩_boostcourse] _ <i>2022.01.31.</i> </p>
+<p align="left"> • 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+[김영한_inflearn] _ <i>2022.03.12.</i> </p>
+</details>
+<br>
 <h3 align="left">📚 Certificate 📚</h3>
 
 <details>
@@ -31,28 +41,16 @@ Let's enjoy this day Together<br>
 <p align="left"> • 정보처리기사[최종합] _ <i>2021.11.26.</i> </p>
 <p align="left"> • SQLD _  <i>2021.10.01.</i> </p>
 
-
-
 </details>
 
-<details>
-    <summary> 수료 </summary>
-<br>
-    
-<p align="left"> • 자바1[생활코딩_boostcourse] _ <i>2022.01.31.</i> </p>
-<p align="left"> • 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
-[김영한_inflearn] _ <i>2022.03.12.</i> </p>
 
-
-
-</details>
 
 
 <br>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
-<p align="left"> Techs that I've used at least once </p>
+<p align="left"> Techs that I Love </p>
 
 <p align="left">
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
