@@ -31,6 +31,13 @@ Let's enjoy this day Together<br>
 <p align="left"> • 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 [김영한_inflearn] _ <i>2022.03.12.</i> </p>
 </details>
+<details>
+    <summary> 프로젝트 </summary>
+<br>
+    
+<p align="left"> •  페이의 달인(더치페이 웹앱)_스프링 부트, Mybatis 버전_명지, 소현, 민욱, 주황, 영준 <i>2022.03.06~</i> </p>
+
+</details>
 <br>
 <h3 align="left">📚 Certificate 📚</h3>
 
