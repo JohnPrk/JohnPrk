@@ -21,7 +21,7 @@ Let's enjoy this day Together<br>
 <details>
     <summary> 교육 </summary>
 <br>
-    <p align="left"> • 엔코아 플레이데이터 국비교육과정 <i>[2021.12.20. ~]</i> </p>
+    <p align="left"> • 엔코아 플레이데이터 국비과정(인공지능, 백엔드) <i>[2021.12.20. ~]</i> </p>
 </details>
 <details>
     <summary> 강의(수료) </summary>
