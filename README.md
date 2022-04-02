@@ -35,7 +35,7 @@ Let's enjoy this day Together<br>
     <summary> 프로젝트 </summary>
 <br>
     
-<p align="left"> •  페이의 달인(더치페이 웹앱)_스프링 부트, Mybatis 버전_명지, 소현, 민욱, 주황, 영준 <i>2022.03.06~</i> </p>
+<p align="left"> •  페이의 달인(더치페이 웹앱)_Spring boot, Mybatis Version_명지, 소현, 민욱, 주황, 영준 <i>2022.03.06~</i> </p>
 
 </details>
 <br>
