@@ -31,6 +31,8 @@ Let's enjoy this day Together<br>
 <p align="left"> • 자바1[생활코딩_boostcourse] _ <i>2022.01.31.</i> </p>
 <p align="left"> • 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 [김영한_inflearn] _ <i>2022.03.12.</i> </p>
+<p align="left"> • 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
+[김영한_inflearn] _ <i>2022.04.26.</i> </p>    
 </details>
 <details>
     <summary> 프로젝트 </summary>
