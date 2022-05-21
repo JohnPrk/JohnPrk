@@ -15,7 +15,7 @@ Let's enjoy this day Together<br>
 
 #### ⚡️1일 1커밋 챌린지_53일차⚡️
 꾸준함이 완벽함을 만든다(2022.03.12~)<br>
-(깜빡한 날 : 2일)
+
 <br>
 <br>
 <h3 align="left">📁 Study 📁</h3>
