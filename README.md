@@ -72,19 +72,6 @@ Let's enjoy this day Together<br>
 </p>
 <br>
 
-<h3 align="left">⏰ Monthly_Record ⏰</h3> 
-
-<details>
-    <summary> 🗃 </summary>
-
-* Jan 2022(Notion) => https://bit.ly/3s5Wp6q
-* Feb 2022(Notion) => https://bit.ly/3swOWyZ    
-* Mar 2022(Notion) => https://bit.ly/3vQCdZO
-* Apr 2022(Notion) => https://bit.ly/3E6Vw3o
-</details>
-
-
-<br>
 
 <h3 align="left"> 🧑🏻‍💻 Me 🧑🏻‍💻 </h3>
 <p align="left">
