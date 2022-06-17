@@ -63,7 +63,6 @@ Let's enjoy this day Together<br>
 <p align="left"> Techs that I Love </p>
 
 <p align="left">
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-c11f27?style=flat&logo=Java&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/JavaScript-8977ad?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/><br>  
