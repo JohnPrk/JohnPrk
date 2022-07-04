@@ -22,23 +22,13 @@ Let's enjoy this day Together<br>
 <details>
     <summary> 교육 </summary>
 <br>
-    <p align="left"> • 엔코아 플레이데이터 국비과정(인공지능, 백엔드) <i>[2021.12.20. ~]</i> </p>
-</details>
-<details>
-    <summary> 강의(수료) </summary>
-<br>
-    
-<p align="left"> • 자바1[생활코딩_boostcourse] _ <i>2022.01.31.</i> </p>
-<p align="left"> • 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
-[김영한_inflearn] _ <i>2022.03.12.</i> </p>
-<p align="left"> • 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
-[김영한_inflearn] _ <i>2022.04.26.</i> </p>    
+    <p align="left"> • 엔코아 플레이데이터 국비과정(인공지능, 백엔드) <i>[2021.12.20 ~ 2022.06.28]</i> </p>
 </details>
 <details>
     <summary> 프로젝트 </summary>
 <br>
     
-<p align="left"> •  페이의 달인(더치페이 웹앱)_Spring boot, Mybatis Version_명지, 소현, 민욱, 주황, 영준 <i>2022.03.06~</i> </p>
+<p align="left"> •  페이의 달인(더치페이 웹앱)_Spring boot, Mybatis, AWS(EC2, RDS)_명지, 소현, 민욱, 주황, 영준 <i>2022.03.06 ~ 2022.06.28</i></p>
 
 </details>
 <br>
