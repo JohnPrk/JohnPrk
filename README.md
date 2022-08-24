@@ -54,11 +54,13 @@ Let's enjoy this day Together<br>
 <p align="left"> Techs that I Love </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-c11f27?style=flat&logo=Java&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/JavaScript-8977ad?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/><br>  
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><br>  
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Java-c11f27?style=flat&logo=Java&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><br>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-8977ad?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+  &nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/><br>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat&logo=MySql&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/><br>
 </p>
 <br>
 
