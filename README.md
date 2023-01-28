@@ -24,6 +24,7 @@ Let's enjoy this day Together<br>
 <br>
     <p align="left"> • 엔코아 플레이데이터 국비과정(인공지능, 백엔드) <i>[2021.12.20 ~ 2022.06.28]</i> </p>
     <p align="left"> • 넥스트 스텝(인프라 공방 7기) <i>[2022.08.14 ~ 2022.09.11]</i> </p>
+    <p align="left"> • 넥스트 스텝(ATDD 6기) <i>[2023.01.23 ~ 2023.03.09]</i> </p>
 </details>
 <details>
     <summary> 프로젝트 </summary>
