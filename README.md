@@ -43,7 +43,7 @@ Let's enjoy this day Together<br>
     
 <p align="left"> • 정보처리기사[최종합] _ <i>2021.11.26.</i> </p>
 <p align="left"> • SQLD _  <i>2021.10.01.</i> </p>
-
+<p align="left"> • AWS Certified Solutions Architect - Associate (SAA-C03) _  <i>2023.04.03.</i> </p>
 </details>
 
 
