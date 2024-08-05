@@ -7,14 +7,13 @@ Let's enjoy this day Together<br>
 <br>
 <br>
 
-⁃ 협업을 통해 배우고 <br>
-⁃ 몰입하며 성장하고  <br>
+⁃ 끊임없이 성장하고 <br>
 ⁃ 배운 것을 기록하는 <br>
-⁃ 주니어 백엔드 개발자입니다.<br>
+⁃ 백엔드 개발자입니다.<br>
 <br>
 
 #### ⚡️1일 1커밋 챌린지⚡️
-꾸준함이 완벽함을 만든다(2022.03.12~)<br>
+꾸준함이 완벽함을 만든다(2022.03.12~2023.05.18)<br>
 [⭐️ 1주년 회고(2023.03.12) ⭐️](https://github.com/JohnPrk/TIL/tree/main/Review/1%EC%A3%BC%EB%85%84%20%ED%9A%8C%EA%B3%A0)
 
 <br>
@@ -24,14 +23,16 @@ Let's enjoy this day Together<br>
     <summary> 교육 </summary>
 <br>
     <p align="left"> • 엔코아 플레이데이터 국비과정(인공지능, 백엔드) <i>[2021.12.20 ~ 2022.06.28]</i> </p>
-    <p align="left"> • 넥스트 스텝(인프라 공방 7기) <i>[2022.08.14 ~ 2022.09.11]</i> </p>
-    <p align="left"> • 넥스트 스텝(ATDD 6기) <i>[2023.01.23 ~ 2023.03.09]</i> </p>
+    <p align="left"> • 인프라 공방 7기(넥스트스텝) <i>[2022.08.14 ~ 2022.09.11]</i> </p>
+    <p align="left"> • ATDD, 클린 코드 with Spring 6기(넥스트스텝) <i>[2023.01.23 ~ 2023.03.09]</i> </p>
+    <p align="left"> • 학습 테스트로 배우는 Spring 3기(넥스트스텝) <i>[2024.07.01 ~ 2024.08.01]</i> </p>
 </details>
 <details>
     <summary> 프로젝트 </summary>
 <br>
-    
-<p align="left"> •  페이의 달인(더치페이 웹앱)_Spring boot, Mybatis, AWS(EC2, RDS)_명지, 소현, 민욱, 주황, 영준 <i>[2022.03.06 ~ 2022.06.28]</i></p>
+
+<p align="left"> • 글한컵(질문 기반 생각정리 웹 애플리케이션) : - 비사이드 포텐데이 해커톤 305기 2등 수상 - <i>[2022.03.06 ~ 2022.06.28]</i></p>
+<p align="left"> • 페이의 달인(더치페이 웹 애플리케이션) : 국비과정 파이널 프로젝트 - <i>[2023.05.19 ~ 05.28]</i></p>
 
 </details>
 <br>
@@ -41,9 +42,9 @@ Let's enjoy this day Together<br>
     <summary> 자격증 </summary>
 <br>
     
-<p align="left"> • 정보처리기사[최종합] _ <i>2021.11.26.</i> </p>
-<p align="left"> • SQLD _  <i>2021.10.01.</i> </p>
-<p align="left"> • AWS Certified Solutions Architect - Associate (SAA-C03) _  <i>2023.04.03.</i> </p>
+<p align="left"> • 정보처리기사 - <i>[2021.11.26]</i> </p>
+<p align="left"> • SQLD - <i>[2021.10.01]</i> </p>
+<p align="left"> • AWS Certified Solutions Architect Associate(SAA-C03) - <i>[2023.04.03]</i> </p>
 </details>
 
 
@@ -76,6 +77,6 @@ Let's enjoy this day Together<br>
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uo3641493)](https://solved.ac/uo3641493) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPrk&layout=compact&card_width=300&theme=material-palenight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uo3641493_2)](https://solved.ac/uo3641493_2) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPrk&layout=compact&card_width=300&theme=material-palenight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohnPrk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
